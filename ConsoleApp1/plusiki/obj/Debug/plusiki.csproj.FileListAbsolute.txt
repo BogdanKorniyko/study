@@ -1,0 +1,6 @@
+C:\Users\Bohdan\Desktop\C#\ConsoleApp1\plusiki\bin\Debug\plusiki.exe.config
+C:\Users\Bohdan\Desktop\C#\ConsoleApp1\plusiki\bin\Debug\plusiki.exe
+C:\Users\Bohdan\Desktop\C#\ConsoleApp1\plusiki\bin\Debug\plusiki.pdb
+C:\Users\Bohdan\Desktop\C#\ConsoleApp1\plusiki\obj\Debug\plusiki.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\C#\ConsoleApp1\plusiki\obj\Debug\plusiki.exe
+C:\Users\Bohdan\Desktop\C#\ConsoleApp1\plusiki\obj\Debug\plusiki.pdb
