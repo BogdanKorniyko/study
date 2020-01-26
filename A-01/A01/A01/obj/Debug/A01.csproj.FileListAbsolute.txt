@@ -1,0 +1,6 @@
+C:\Users\Bohdan\Desktop\C#\A01\A01\bin\Debug\A01.exe.config
+C:\Users\Bohdan\Desktop\C#\A01\A01\bin\Debug\A01.exe
+C:\Users\Bohdan\Desktop\C#\A01\A01\bin\Debug\A01.pdb
+C:\Users\Bohdan\Desktop\C#\A01\A01\obj\Debug\A01.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\C#\A01\A01\obj\Debug\A01.exe
+C:\Users\Bohdan\Desktop\C#\A01\A01\obj\Debug\A01.pdb
